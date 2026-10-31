@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/Project"
+		},
+		{
+			"name": "Project",
+			"path": ".."
+		},
+		{
+			"name": "E-Paper Display",
+			"path": "../../E-Paper Display"
+		}
+	],
+	"settings": {}
+}
